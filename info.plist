@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>qeurebpensgrefyno@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Visual</string>
+	<key>description</key>
+	<string>Support for editing GNU Linker Script files.</string>
+	<key>name</key>
+	<string>LinkerScript</string>
+	<key>uuid</key>
+	<string>66df8366-96b8-4eb1-8fce-5577f7e227ed</string>
+</dict>
+</plist>
